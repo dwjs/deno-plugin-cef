@@ -1,2 +1,2 @@
 # deno-plugin-cef
-Allow use of cef bindings inside deno
+Allow use of cef bindings inside deno-chromium
